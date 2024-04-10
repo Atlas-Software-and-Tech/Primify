@@ -1,2 +1,2 @@
 # Primify
-The Mersenne Prime Finder!
+The Mersenne Prime Finder! 🔥
